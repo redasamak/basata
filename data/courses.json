@@ -252,8 +252,102 @@
         {
           "id": "b-t2",
           "title": "الترم الثاني",
-          "status": "coming_soon",
-          "units": []
+          "status": "active",
+          "units": [
+            {
+              "id": "b-t1-u4",
+              "title": "الحرب العالمية الأولى والثانية وتحولات النظام الدولي",
+              "titleEn": "World War I and II and shifts in the international order",
+              "lessons": [
+                {
+                  "id": "b-t1-u4-l1",
+                  "title": "مقدمات الحرب العالمية الأولى",
+                  "titleEn": "Prelude to World War I",
+                  "status": "titles_verified_needs_teacher_confirmation"
+                },
+                {
+                  "id": "b-t1-u4-l2",
+                  "title": "الحرب العالمية الأولى: المعارك الكبرى",
+                  "titleEn": "World War I: the major battles",
+                  "status": "titles_verified_needs_teacher_confirmation"
+                },
+                {
+                  "id": "b-t1-u4-l3",
+                  "title": "مقدمات الحرب العالمية الثانية",
+                  "titleEn": "Prelude to World War II",
+                  "status": "titles_verified_needs_teacher_confirmation"
+                },
+                {
+                  "id": "b-t1-u4-l4",
+                  "title": "من الحرب العالمية الثانية إلى الحرب الباردة",
+                  "titleEn": "From World War II to the Cold War",
+                  "status": "titles_verified_needs_teacher_confirmation"
+                }
+              ]
+            },
+            {
+              "id": "b-t1-u5",
+              "title": "مصر والقضية الفلسطينية",
+              "titleEn": "Egypt and the Palestinian cause",
+              "lessons": [
+                {
+                  "id": "b-t1-u5-l1",
+                  "title": "القضية الفلسطينية والتحولات الدولية حتى عام 1948م",
+                  "titleEn": "The Palestinian cause and international shifts up to 1948",
+                  "status": "titles_verified_needs_teacher_confirmation"
+                },
+                {
+                  "id": "b-t1-u5-l2",
+                  "title": "مصر والصراع العربي الإسرائيلي",
+                  "titleEn": "Egypt and the Arab-Israeli conflict",
+                  "status": "titles_verified_needs_teacher_confirmation"
+                },
+                {
+                  "id": "b-t1-u5-l3",
+                  "title": "حرب أكتوبر 1973م",
+                  "titleEn": "The October 1973 War",
+                  "status": "titles_verified_needs_teacher_confirmation"
+                },
+                {
+                  "id": "b-t1-u5-l4",
+                  "title": "مصر والقضية الفلسطينية بعد حرب أكتوبر 1973م",
+                  "titleEn": "Egypt and the Palestinian cause after the October 1973 War",
+                  "status": "titles_verified_needs_teacher_confirmation"
+                }
+              ]
+            },
+            {
+              "id": "b-t1-u6",
+              "title": "السلام العالمي بين الواقع والمأمول",
+              "titleEn": "World peace: reality and aspiration",
+              "lessons": [
+                {
+                  "id": "b-t1-u6-l1",
+                  "title": "مفهوم السلام العالمي وتطوره",
+                  "titleEn": "The concept of world peace and its evolution",
+                  "status": "titles_verified_needs_teacher_confirmation"
+                },
+                {
+                  "id": "b-t1-u6-l2",
+                  "title": "تحديات تحقيق السلام العالمي",
+                  "titleEn": "Challenges to achieving world peace",
+                  "status": "titles_verified_needs_teacher_confirmation"
+                },
+                {
+                  "id": "b-t1-u6-l3",
+                  "title": "المنظمات الدولية والإقليمية ودورها في حفظ السلام العالمي",
+                  "titleEn": "International and regional organizations and their role in peacekeeping",
+                  "status": "titles_verified_needs_teacher_confirmation"
+                },
+                {
+                  "id": "b-t1-u6-l4",
+                  "title": "دور مصر في دعم السلام العالمي",
+                  "titleEn": "Egypt's role in supporting world peace",
+                  "status": "titles_verified_needs_teacher_confirmation"
+                }
+              ]
+            }
+          ]
         }
       ]
     }
